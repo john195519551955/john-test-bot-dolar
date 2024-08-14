@@ -1,0 +1,4 @@
+e:
+cd botdolar.js
+
+node botdolar.js > botdolar.log 2>&1
